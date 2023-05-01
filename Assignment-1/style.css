@@ -1,0 +1,39 @@
+.h1,h2
+{
+    color: red;
+    font-style: italic;
+    font-weight: bolder;
+}
+body, mark{
+    line-height: 1.3cm;
+    color:crimson;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+}
+ul{
+    letter-spacing: 0.6dvh;
+    line-height: normal;
+}
+ul li mark{
+    line-height: normal;
+}
+p{
+    line-height: 0.7cm;
+}
+#io{
+    text-decoration: underline;
+    font-style: italic
+}
+#lie{
+    text-decoration: line-through;
+}
+.cme2{
+    background-color: yellow;
+}
+a
+{
+    background-color: yellow;
+    color: red;
+    text-decoration: none;
+}
